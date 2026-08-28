@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">代理商关注 Shopee Shop 的比例</title>
+  <desc id="desc">37% 的受访代理商关注了 Shopee Shop，63% 没有关注。</desc>
+  <rect width="1600" height="1000" fill="#f7f7f3"/>
+  <g font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" fill="#17191c">
+    <text x="96" y="118" font-size="46" font-weight="500" letter-spacing="-1.2">多数受访代理商没有关注 Shop</text>
+    <text x="96" y="166" font-size="20" fill="#666a70">功能认知尚未覆盖大多数目标用户</text>
+
+    <text x="96" y="438" font-size="166" font-weight="500" fill="#d85f36" letter-spacing="-5">37%</text>
+    <text x="430" y="374" font-size="28" font-weight="600">关注了 Shopee Shop</text>
+    <text x="430" y="416" font-size="20" fill="#666a70">受访代理商中不足五分之二</text>
+
+    <rect x="96" y="548" width="1408" height="112" fill="#f4e7c9"/>
+    <rect x="96" y="548" width="521" height="112" fill="#d85f36"/>
+    <line x1="617" y1="530" x2="617" y2="682" stroke="#17191c" stroke-width="2"/>
+
+    <text x="96" y="726" font-size="18" fill="#b94725" letter-spacing="1.6">关注 SHOP</text>
+    <text x="96" y="772" font-size="42" font-weight="600">37%</text>
+    <text x="1504" y="726" font-size="18" text-anchor="end" fill="#666a70" letter-spacing="1.6">未关注</text>
+    <text x="1504" y="772" font-size="42" font-weight="600" text-anchor="end">63%</text>
+
+    <line x1="96" y1="858" x2="1504" y2="858" stroke="#b9bdc1"/>
+    <text x="96" y="912" font-size="21" fill="#666a70">设计启示</text>
+    <text x="330" y="912" font-size="24">不能只依赖已关注店铺，需要在选品流程中提供更多入口。</text>
+  </g>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Dropshipper 目录入口来源</title>
+  <desc id="desc">排序条形图显示 Shop 和 Search 是占比最高的目录入口，其后为商品页、未识别入口、首页和其他 Shopee 界面。</desc>
+  <rect width="1600" height="1000" fill="#f7f7f3"/>
+  <g font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" fill="#17191c">
+    <text x="96" y="104" font-size="46" font-weight="500" letter-spacing="-1.2">用户从多个 Shopee 入口寻找商品</text>
+    <text x="96" y="150" font-size="20" fill="#666a70">各入口占全部记录访问量的比例</text>
+
+    <text x="96" y="218" font-size="15" fill="#666a70" letter-spacing="1.8">入口</text>
+    <text x="1370" y="218" font-size="15" text-anchor="end" fill="#666a70" letter-spacing="1.8">用户数</text>
+    <text x="1504" y="218" font-size="15" text-anchor="end" fill="#666a70" letter-spacing="1.8">占比</text>
+    <line x1="96" y1="238" x2="1504" y2="238" stroke="#b9bdc1"/>
+
+    <g font-size="19">
+      <text x="96" y="290">Shop</text>
+      <rect x="404" y="265" width="780" height="30" fill="#d85f36"/>
+      <text x="1370" y="290" text-anchor="end">8,186</text>
+      <text x="1504" y="290" text-anchor="end" font-weight="600">18.23%</text>
+
+      <text x="96" y="352">Search</text>
+      <rect x="404" y="327" width="671" height="30" fill="#db7040"/>
+      <text x="1370" y="352" text-anchor="end">7,040</text>
+      <text x="1504" y="352" text-anchor="end" font-weight="600">15.68%</text>
+
+      <text x="96" y="414">商品页</text>
+      <rect x="404" y="389" width="473" height="30" fill="#de8049"/>
+      <text x="1370" y="414" text-anchor="end">4,971</text>
+      <text x="1504" y="414" text-anchor="end" font-weight="600">11.07%</text>
+
+      <text x="96" y="476">未识别</text>
+      <rect x="404" y="451" width="427" height="30" fill="#df9052"/>
+      <text x="1370" y="476" text-anchor="end">4,484</text>
+      <text x="1504" y="476" text-anchor="end" font-weight="600">9.99%</text>
+
+      <text x="96" y="538">首页</text>
+      <rect x="404" y="513" width="413" height="30" fill="#df9f5b"/>
+      <text x="1370" y="538" text-anchor="end">4,337</text>
+      <text x="1504" y="538" text-anchor="end" font-weight="600">9.66%</text>
+
+      <text x="96" y="600">购物车</text>
+      <rect x="404" y="575" width="323" height="30" fill="#dcad65"/>
+      <text x="1370" y="600" text-anchor="end">3,389</text>
+      <text x="1504" y="600" text-anchor="end" font-weight="600">7.55%</text>
+
+      <text x="96" y="662">其他</text>
+      <rect x="404" y="637" width="257" height="30" fill="#d9b76d"/>
+      <text x="1370" y="662" text-anchor="end">2,703</text>
+      <text x="1504" y="662" text-anchor="end" font-weight="600">6.02%</text>
+
+      <text x="96" y="724">订单列表</text>
+      <rect x="404" y="699" width="161" height="30" fill="#d5bf73"/>
+      <text x="1370" y="724" text-anchor="end">1,690</text>
+      <text x="1504" y="724" text-anchor="end" font-weight="600">3.76%</text>
+
+      <text x="96" y="786">卖家页</text>
+      <rect x="404" y="761" width="108" height="30" fill="#d3c973"/>
+      <text x="1370" y="786" text-anchor="end">1,132</text>
+      <text x="1504" y="786" text-anchor="end" font-weight="600">2.52%</text>
+
+      <text x="96" y="848">卖家商品</text>
+      <rect x="404" y="823" width="107" height="30" fill="#ddd08c"/>
+      <text x="1370" y="848" text-anchor="end">1,122</text>
+      <text x="1504" y="848" text-anchor="end" font-weight="600">2.50%</text>
+    </g>
+
+    <line x1="96" y1="902" x2="1504" y2="902" stroke="#b9bdc1"/>
+    <text x="96" y="950" font-size="20" fill="#666a70">没有一个入口主导体验；Shop 和 Search 只是占比最高的两个分散入口。</text>
+  </g>
+</svg>

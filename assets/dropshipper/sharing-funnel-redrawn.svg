@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+  <title id="title">Shopee Dropshipper sharing funnel</title>
+  <desc id="desc">Four stages show 1.5 million whitelisted users, 510 thousand catalogue visitors, 45 thousand users adding a product and 24.5 thousand users sharing. The largest loss happens before adding a product.</desc>
+  <rect width="1600" height="760" fill="#f7f7f3"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#17191c">
+    <text x="96" y="104" font-size="48" font-weight="500" letter-spacing="-1.5">Where the sharing funnel breaks</text>
+    <text x="96" y="150" font-size="20" fill="#666a70">Unique reseller users moving from eligibility to a shared product</text>
+
+    <g transform="translate(96 246)">
+      <rect width="280" height="250" fill="#fdfdfb" stroke="#aeb2b7"/>
+      <text x="28" y="42" font-size="15" fill="#d85f36" letter-spacing="2">ELIGIBLE</text>
+      <text x="28" y="120" font-size="54" font-weight="600">1.5M</text>
+      <text x="28" y="170" font-size="24">Whitelisted users</text>
+      <text x="28" y="211" font-size="17" fill="#666a70">Starting population</text>
+    </g>
+
+    <g transform="translate(472 246)">
+      <rect width="280" height="250" fill="#f4e7c9" stroke="#d3c973"/>
+      <text x="28" y="42" font-size="15" fill="#b94725" letter-spacing="2">ENTERED</text>
+      <text x="28" y="120" font-size="54" font-weight="600">510K</text>
+      <text x="28" y="170" font-size="24">My Catalogue</text>
+      <text x="28" y="211" font-size="17" fill="#4c5560">34.0% of eligible users</text>
+    </g>
+
+    <g transform="translate(848 246)">
+      <rect width="280" height="250" fill="#d85f36"/>
+      <text x="28" y="42" font-size="15" fill="#fdfdfb" letter-spacing="2">ACTED</text>
+      <text x="28" y="120" font-size="54" font-weight="600" fill="#ffffff">45K</text>
+      <text x="28" y="170" font-size="24" fill="#ffffff">Added a product</text>
+      <text x="28" y="211" font-size="17" fill="#f4e7c9">8.8% of catalogue visitors</text>
+    </g>
+
+    <g transform="translate(1224 246)">
+      <rect width="280" height="250" fill="#17191c"/>
+      <text x="28" y="42" font-size="15" fill="#d3c973" letter-spacing="2">SHARED</text>
+      <text x="28" y="120" font-size="54" font-weight="600" fill="#ffffff">24.5K</text>
+      <text x="28" y="170" font-size="24" fill="#ffffff">Shared a product</text>
+      <text x="28" y="211" font-size="17" fill="#cfd1d4">54.4% of product adders</text>
+    </g>
+
+    <g fill="none" stroke="#d85f36" stroke-width="2">
+      <path d="M392 371H448"/>
+      <path d="m438 361 10 10-10 10"/>
+      <path d="M768 371H824"/>
+      <path d="m814 361 10 10-10 10"/>
+      <path d="M1144 371H1200"/>
+      <path d="m1190 361 10 10-10 10"/>
+    </g>
+
+    <text x="420" y="344" font-size="18" text-anchor="middle" fill="#d85f36">34.0%</text>
+    <text x="796" y="344" font-size="18" font-weight="600" text-anchor="middle" fill="#b94725">8.8%</text>
+    <text x="1172" y="344" font-size="18" text-anchor="middle" fill="#d85f36">54.4%</text>
+
+    <path d="M988 522v52H848" fill="none" stroke="#d85f36" stroke-width="2"/>
+    <circle cx="988" cy="522" r="5" fill="#d85f36"/>
+    <text x="848" y="618" font-size="28" font-weight="600">The add-product step is the critical break.</text>
+    <text x="848" y="654" font-size="19" fill="#666a70">Only 45K of 510K catalogue visitors reached it.</text>
+  </g>
+</svg>
