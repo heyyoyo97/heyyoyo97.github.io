@@ -58,3 +58,11 @@ seven source pixels of ink dilation so the contour retains its weight at
 `thread-pounce.png` replaces the middle group's active pose with a low crouch
 and both forepaws planted forward. It is used only for group 1's `bat` state,
 so the first and second stages no longer share the same single-arm gesture.
+
+## Not-found page
+
+`not-found.png` is a 1774 by 887 two-frame sprite generated with built-in
+image_gen. It shows one seated cat wearing an orange traffic cone: the resting
+frame keeps the cone upright, while the interaction frame tilts it. CSS selects
+each half for pointer, keyboard and touch activation; reduced motion keeps the
+resting frame. The exact prompt is recorded in `prompts.json`.
