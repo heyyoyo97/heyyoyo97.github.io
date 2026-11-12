@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
   <title id="title">Shopee Dropshipper 分享漏斗</title>
   <desc id="desc">四个阶段依次显示 150 万白名单用户、51 万目录访客、4.5 万添加商品用户和 2.45 万分享商品用户，最大流失发生在添加商品之前。</desc>
-  <rect width="1600" height="760" fill="#f7f7f3"/>
+  <rect width="1600" height="760" fill="#faf8f2"/>
   <g font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" fill="#17191c">
     <text x="96" y="104" font-size="48" font-weight="500" letter-spacing="-1.5">分享漏斗在哪里断裂</text>
     <text x="96" y="150" font-size="20" fill="#666a70">符合条件的代理商从进入功能到分享商品的转化</text>

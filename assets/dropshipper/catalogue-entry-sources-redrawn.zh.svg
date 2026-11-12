@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
   <title id="title">Dropshipper 目录入口来源</title>
   <desc id="desc">排序条形图显示 Shop 和 Search 是占比最高的目录入口，其后为商品页、未识别入口、首页和其他 Shopee 界面。</desc>
-  <rect width="1600" height="1000" fill="#f7f7f3"/>
+  <rect width="1600" height="1000" fill="#faf8f2"/>
   <g font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" fill="#17191c">
     <text x="96" y="104" font-size="46" font-weight="500" letter-spacing="-1.2">用户从多个 Shopee 入口寻找商品</text>
     <text x="96" y="150" font-size="20" fill="#666a70">各入口占全部记录访问量的比例</text>

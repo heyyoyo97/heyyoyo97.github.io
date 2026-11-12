@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
   <title id="title">Dropshipper catalogue entry sources</title>
   <desc id="desc">A ranked bar chart shows Shop and Search as the largest catalogue entry sources, followed by Product, Not found, Home and other Shopee surfaces.</desc>
-  <rect width="1600" height="1000" fill="#f7f7f3"/>
+  <rect width="1600" height="1000" fill="#faf8f2"/>
   <g font-family="Arial, Helvetica, sans-serif" fill="#17191c">
     <text x="96" y="104" font-size="46" font-weight="500" letter-spacing="-1.2">Catalogue entry was fragmented across Shopee</text>
     <text x="96" y="150" font-size="20" fill="#666a70">Share of all recorded entries, ranked by source</text>
